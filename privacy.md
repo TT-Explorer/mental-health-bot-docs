@@ -4,7 +4,7 @@
 **Effective Date:** 11-30-2024
 **Last Updated:**  11-30-2024
 
-We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how Mental Health Bot (the "Bot") collects, uses, shares, and protects information you provide while using our services.
+We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how Mental Health Support Bot (the "Bot") collects, uses, shares, and protects information you provide while using our services.
 
 By using the Bot, you agree to the practices outlined in this Privacy Policy. If you do not agree, please discontinue your use of the Bot.
 
